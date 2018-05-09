@@ -1,0 +1,3 @@
+rootProject.name = 'chanmao_design'
+
+include ':app'
